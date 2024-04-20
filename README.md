@@ -1,3 +1,3 @@
 # utils-ts
 
-Collections of helpful snipits 
+Collection of helpful snipits 
